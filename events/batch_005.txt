@@ -1,0 +1,417 @@
+=d1212 T0134 7
+at 2026-11-04T19:58:54Z
+payload 4
+pl T0134-07-1 reopened on customer callback
+pl T0134-07-2 status changed to in progress
+pl T0134-07-3 invoice regenerated with corrected tax
+pl T0134-07-4 ticket opened via customer portal
+end =d1212
+=d1213 T0144 2
+at 2026-11-07T06:56:16Z
+payload 4
+pl T0144-02-1 reopened on customer callback
+pl T0144-02-2 goodwill credit applied
+pl T0144-02-3 priority set to high
+pl T0144-02-4 assigned to fulfillment queue
+end =d1213
+=d1214 T0109 5
+at 2026-11-07T20:42:26Z
+payload 4
+pl T0109-05-1 attachment received from customer
+pl T0109-05-2 sla breach acknowledged to customer
+pl T0109-05-3 backup contact added
+pl T0109-05-4 ticket opened via customer portal
+end =d1214
+=d1215 T0177 1
+at 2026-11-08T18:53:20Z
+payload 5
+pl T0177-01-1 delivery confirmation received
+pl T0177-01-2 goodwill credit applied
+pl T0177-01-3 reopened on customer callback
+pl T0177-01-4 backup contact added
+pl T0177-01-5 goodwill credit applied
+end =d1215
+=d1216 T0234 2
+at 2026-11-07T00:08:42Z
+payload 6
+pl T0234-02-1 customer address updated
+pl T0234-02-2 escalated to tier two review
+pl T0234-02-3 shipping label reprinted
+pl T0234-02-4 warehouse stock adjusted
+pl T0234-02-5 ticket opened via customer portal
+pl T0234-02-6 customer address updated
+end =d1216
+=d1217 T0234 4
+at 2026-11-07T01:18:13Z
+payload 4
+pl T0234-04-1 partial refund issued
+pl T0234-04-2 return authorization granted
+pl T0234-04-3 partial refund issued
+pl T0234-04-4 delivery confirmation received
+end =d1217
+=d1218 T0179 1
+at 2026-11-08T14:34:47Z
+payload 3
+pl T0179-01-1 goodwill credit applied
+pl T0179-01-2 invoice regenerated with corrected tax
+pl T0179-01-3 attachment received from customer
+end =d1218
+=d1219 T0107 1
+at 2026-11-06T02:56:02Z
+payload 5
+pl T0107-01-1 status changed to in progress
+pl T0107-01-2 courier pickup confirmed
+pl T0107-01-3 backup contact added
+pl T0107-01-4 escalated to tier two review
+pl T0107-01-5 hold applied pending payment check
+end =d1219
+=d1220 T0239 4
+at 2026-11-03T17:10:53Z
+payload 4
+pl T0239-04-1 invoice regenerated with corrected tax
+pl T0239-04-2 reopened on customer callback
+pl T0239-04-3 invoice regenerated with corrected tax
+pl T0239-04-4 escalated to tier two review
+end =d1220
+=d1221 T0208 2
+at 2026-11-04T02:20:07Z
+payload 3
+pl T0208-02-1 hold applied pending payment check
+pl T0208-02-2 delivery rescheduled at customer request
+pl T0208-02-3 invoice regenerated with corrected tax
+end =d1221
+=d1222 T0127 2
+at 2026-11-05T23:07:28Z
+payload 5
+pl T0127-02-1 invoice regenerated with corrected tax
+pl T0127-02-2 shipping label reprinted
+pl T0127-02-3 return authorization granted
+pl T0127-02-4 warehouse stock adjusted
+pl T0127-02-5 courier pickup confirmed
+end =d1222
+=d1223 T0122 5
+at 2026-11-05T20:27:12Z
+payload 3
+pl T0122-05-1 hold applied pending payment check
+pl T0122-05-2 customer address updated
+pl T0122-05-3 ticket opened via customer portal
+end =d1223
+=d1224 T0110 3
+at 2026-11-05T02:16:34Z
+payload 6
+pl T0110-03-1 return authorization granted
+pl T0110-03-2 invoice regenerated with corrected tax
+pl T0110-03-3 courier pickup confirmed
+pl T0110-03-4 assigned to fulfillment queue
+pl T0110-03-5 sla breach acknowledged to customer
+pl T0110-03-6 delivery confirmation received
+end =d1224
+=d1225 T0214 4
+at 2026-11-04T15:54:42Z
+payload 5
+pl T0214-04-1 courier pickup confirmed
+pl T0214-04-2 hold applied pending payment check
+pl T0214-04-3 courier pickup confirmed
+pl T0214-04-4 goodwill credit applied
+pl T0214-04-5 attachment received from customer
+end =d1225
+=d1226 T0230 2
+at 2026-11-05T14:10:56Z
+payload 3
+pl T0230-02-1 hold applied pending payment check
+pl T0230-02-2 escalated to tier two review
+pl T0230-02-3 sla breach acknowledged to customer
+end =d1226
+=d1227 T0180 2
+at 2026-11-03T21:30:52Z
+payload 3
+pl T0180-02-1 courier pickup confirmed
+pl T0180-02-2 feedback survey sent
+pl T0180-02-3 courier pickup confirmed
+end =d1227
+=d1228 T0143 1
+at 2026-11-04T21:52:04Z
+payload 4
+pl T0143-01-1 hold applied pending payment check
+pl T0143-01-2 hold applied pending payment check
+pl T0143-01-3 attachment received from customer
+pl T0143-01-4 delivery confirmation received
+end =d1228
+=d1229 T0205 3
+at 2026-11-06T21:10:06Z
+payload 3
+pl T0205-03-1 verification call completed
+pl T0205-03-2 return authorization granted
+pl T0205-03-3 note appended by support desk
+end =d1229
+=d1230 T0228 2
+at 2026-11-07T03:21:42Z
+payload 5
+pl T0228-02-1 partial refund issued
+pl T0228-02-2 ticket closed with resolution note
+pl T0228-02-3 customer address updated
+pl T0228-02-4 goodwill credit applied
+pl T0228-02-5 feedback survey sent
+end =d1230
+=d1231 T0240 2
+at 2026-11-03T05:20:05Z
+payload 5
+pl T0240-02-1 status changed to in progress
+pl T0240-02-2 verification call completed
+pl T0240-02-3 partial refund issued
+pl T0240-02-4 replacement item dispatched
+pl T0240-02-5 invoice regenerated with corrected tax
+end =d1231
+=d1232 T0221 3
+at 2026-11-05T11:19:37Z
+payload 5
+pl T0221-03-1 backup contact added
+pl T0221-03-2 priority set to high
+pl T0221-03-3 return authorization granted
+pl T0221-03-4 verification call completed
+pl T0221-03-5 goodwill credit applied
+end =d1232
+=d1233 T0214 1
+at 2026-11-06T19:59:31Z
+payload 5
+pl T0214-01-1 status changed to in progress
+pl T0214-01-2 delivery confirmation received
+pl T0214-01-3 shipping label reprinted
+pl T0214-01-4 delivery rescheduled at customer request
+pl T0214-01-5 escalated to tier two review
+end =d1233
+=d1234 T0177 3
+at 2026-11-05T14:27:12Z
+payload 3
+pl T0177-03-1 shipping label reprinted
+pl T0177-03-2 note appended by support desk
+pl T0177-03-3 escalated to tier two review
+end =d1234
+=d1235 T0165 2
+at 2026-11-08T19:44:06Z
+payload 6
+pl T0165-02-1 sla breach acknowledged to customer
+pl T0165-02-2 invoice regenerated with corrected tax
+pl T0165-02-3 partial refund issued
+pl T0165-02-4 backup contact added
+pl T0165-02-5 return authorization granted
+pl T0165-02-6 feedback survey sent
+end =d1235
+=d1236 T0147 3
+at 2026-11-05T05:05:17Z
+payload 5
+pl T0147-03-1 feedback survey sent
+pl T0147-03-2 status changed to in progress
+pl T0147-03-3 partial refund issued
+pl T0147-03-4 warehouse stock adjusted
+pl T0147-03-5 customer address updated
+end =d1236
+=d1237 T0257 3
+at 2026-11-04T23:57:40Z
+payload 3
+pl T0257-03-1 verification call completed
+pl T0257-03-2 customer address updated
+pl T0257-03-3 sla breach acknowledged to customer
+end =d1237
+=d1238 T0177 6
+at 2026-11-08T02:51:21Z
+payload 5
+pl T0177-06-1 customer address updated
+pl T0177-06-2 warehouse stock adjusted
+pl T0177-06-3 note appended by support desk
+pl T0177-06-4 delivery rescheduled at customer request
+pl T0177-06-5 assigned to fulfillment queue
+end =d1238
+=d1239 T0238 3
+at 2026-11-06T22:54:20Z
+payload 5
+pl T0238-03-1 replacement item dispatched
+pl T0238-03-2 replacement item dispatched
+pl T0238-03-3 reopened on customer callback
+pl T0238-03-4 status changed to in progress
+pl T0238-03-5 delivery confirmation received
+end =d1239
+=d1240 T0134 6
+at 2026-11-06T16:18:30Z
+payload 6
+pl T0134-06-1 return authorization granted
+pl T0134-06-2 backup contact added
+pl T0134-06-3 customer address updated
+pl T0134-06-4 goodwill credit applied
+pl T0134-06-5 delivery confirmation received
+pl T0134-06-6 escalated to tier two review
+end =d1240
+=d1241 T0208 1
+at 2026-11-07T17:42:02Z
+payload 5
+pl T0208-01-1 courier pickup confirmed
+pl T0208-01-2 feedback survey sent
+pl T0208-01-3 sla breach acknowledged to customer
+pl T0208-01-4 partial refund issued
+pl T0208-01-5 priority set to high
+end =d1241
+=d1242 T0272 4
+at 2026-11-07T09:47:19Z
+payload 4
+pl T0272-04-1 priority set to high
+pl T0272-04-2 reopened on customer callback
+pl T0272-04-3 warehouse stock adjusted
+pl T0272-04-4 status changed to in progress
+end =d1242
+=d1243 T0106 1
+at 2026-11-04T18:37:05Z
+payload 5
+pl T0106-01-1 return authorization granted
+pl T0106-01-2 courier pickup confirmed
+pl T0106-01-3 sla breach acknowledged to customer
+pl T0106-01-4 courier pickup confirmed
+pl T0106-01-5 ticket closed with resolution note
+end =d1243
+=d1244 T0126 3
+at 2026-11-08T15:11:31Z
+payload 5
+pl T0126-03-1 attachment received from customer
+pl T0126-03-2 note appended by support desk
+pl T0126-03-3 delivery rescheduled at customer request
+pl T0126-03-4 hold applied pending payment check
+pl T0126-03-5 note appended by support desk
+end =d1244
+=d1245 T0121 3
+at 2026-11-07T04:51:28Z
+payload 6
+pl T0121-03-1 hold released after review
+pl T0121-03-2 priority set to high
+pl T0121-03-3 hold released after review
+pl T0121-03-4 shipping label reprinted
+pl T0121-03-5 status changed to in progress
+pl T0121-03-6 hold applied pending payment check
+end =d1245
+=d1246 T0192 4
+at 2026-11-03T08:47:17Z
+payload 4
+pl T0192-04-1 goodwill credit applied
+pl T0192-04-2 assigned to fulfillment queue
+pl T0192-04-3 status changed to in progress
+pl T0192-04-4 reopened on customer callback
+end =d1246
+=d1247 T0135 3
+at 2026-11-06T15:05:50Z
+payload 3
+pl T0135-03-1 warehouse stock adjusted
+pl T0135-03-2 customer address updated
+pl T0135-03-3 verification call completed
+end =d1247
+=d1248 T0251 4
+at 2026-11-03T04:57:35Z
+payload 5
+pl T0251-04-1 escalated to tier two review
+pl T0251-04-2 replacement item dispatched
+pl T0251-04-3 hold released after review
+pl T0251-04-4 hold applied pending payment check
+pl T0251-04-5 ticket opened via customer portal
+end =d1248
+=d1249 T0215 3
+at 2026-11-03T10:31:06Z
+payload 6
+pl T0215-03-1 attachment received from customer
+pl T0215-03-2 ticket opened via customer portal
+pl T0215-03-3 customer address updated
+pl T0215-03-4 partial refund issued
+pl T0215-03-5 escalated to tier two review
+pl T0215-03-6 sla breach acknowledged to customer
+end =d1249
+=d1250 T0260 7
+at 2026-11-04T19:13:04Z
+payload 4
+pl T0260-07-1 delivery confirmation received
+pl T0260-07-2 hold released after review
+pl T0260-07-3 sla breach acknowledged to customer
+pl T0260-07-4 courier pickup confirmed
+end =d1250
+=d1251 T0272 3
+at 2026-11-08T18:41:06Z
+payload 5
+pl T0272-03-1 backup contact added
+pl T0272-03-2 ticket opened via customer portal
+pl T0272-03-3 assigned to fulfillment queue
+pl T0272-03-4 ticket closed with resolution note
+pl T0272-03-5 replacement item dispatched
+end =d1251
+=d1252 T0130 3
+at 2026-11-07T08:21:34Z
+payload 6
+pl T0130-03-1 delivery confirmation received
+pl T0130-03-2 status changed to in progress
+pl T0130-03-3 note appended by support desk
+pl T0130-03-4 goodwill credit applied
+pl T0130-03-5 status changed to in progress
+pl T0130-03-6 ticket opened via customer portal
+end =d1252
+=d1253 T0239 5
+at 2026-11-05T21:08:42Z
+payload 5
+pl T0239-05-1 ticket opened via customer portal
+pl T0239-05-2 courier pickup confirmed
+pl T0239-05-3 attachment received from customer
+pl T0239-05-4 courier pickup confirmed
+pl T0239-05-5 shipping label reprinted
+end =d1253
+=d1254 T0109 3
+at 2026-11-05T21:53:12Z
+payload 4
+pl T0109-03-1 reopened on customer callback
+pl T0109-03-2 ticket closed with resolution note
+pl T0109-03-3 feedback survey sent
+pl T0109-03-4 attachment received from customer
+end =d1254
+=d1255 T0117 5
+at 2026-11-04T02:45:20Z
+payload 4
+pl T0117-05-1 priority set to high
+pl T0117-05-2 backup contact added
+pl T0117-05-3 reopened on customer callback
+pl T0117-05-4 ticket opened via customer portal
+end =d1255
+=d1256 T0180 3
+at 2026-11-04T01:52:26Z
+payload 6
+pl T0180-03-1 replacement item dispatched
+pl T0180-03-2 reopened on customer callback
+pl T0180-03-3 delivery rescheduled at customer request
+pl T0180-03-4 reopened on customer callback
+pl T0180-03-5 ticket opened via customer portal
+pl T0180-03-6 verification call completed
+end =d1256
+=d1257 T0184 1
+at 2026-11-06T21:39:04Z
+payload 4
+pl T0184-01-1 customer address updated
+pl T0184-01-2 courier pickup confirmed
+pl T0184-01-3 priority set to high
+pl T0184-01-4 replacement item dispatched
+end =d1257
+=d1258 T0184 5
+at 2026-11-07T23:05:05Z
+payload 5
+pl T0184-05-1 ticket opened via customer portal
+pl T0184-05-2 invoice regenerated with corrected tax
+pl T0184-05-3 return authorization granted
+pl T0184-05-4 attachment received from customer
+pl T0184-05-5 courier pickup confirmed
+end =d1258
+=d1259 T0108 3
+at 2026-11-06T13:14:45Z
+payload 3
+pl T0108-03-1 backup contact added
+pl T0108-03-2 delivery confirmation received
+pl T0108-03-3 delivery rescheduled at customer request
+end =d1259
+=d1260 T0184 2
+at 2026-11-04T17:52:11Z
+payload 5
+pl T0184-02-1 backup contact added
+pl T0184-02-2 invoice regenerated with corrected tax
+pl T0184-02-3 backup contact added
+pl T0184-02-4 status changed to in progress
+pl T0184-02-5 priority set to high
+end =d1260
